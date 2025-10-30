@@ -63,9 +63,8 @@ Olympic-web-app/
 ├── app.py
 ├── helper.py
 ├── preprocess.py
-├── data/
-│   ├── athlete_events.csv
-│   └── noc_regions.csv
+├── athlete_events.csv
+├──  noc_regions.csv
 ├── requirements.txt
 └── README.md
 ```
@@ -93,7 +92,13 @@ Olympic-web-app/
     .venv\Scripts\activate        # Windows
     ```
 
-4. Run the Streamlit app:
+4. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. Run the Streamlit app:
 
     ```bash
     streamlit run app.py
