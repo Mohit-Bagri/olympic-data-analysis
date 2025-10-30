@@ -4,6 +4,12 @@ An interactive **Streamlit-based dashboard** to explore **120+ years of Olympic 
 This project visualizes how sports, athletes and countries have evolved over time — helping you discover key trends and success patterns in the Olympics.
 
 ---
+## 🌍 Live App
+
+🚀 **Check it out here:**  
+🔗 [Olympic Data Analysis on Streamlit Cloud](https://mohit-bagri-olympic-data-analysis-app-dlgs6c.streamlit.app/)
+
+---
 
 ## 🧠 Objectives
 
